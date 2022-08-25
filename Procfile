@@ -1,1 +1,1 @@
-web: gunirocn djangogirls.wsgi --log-file
+web: gunirocn djangogirls.wsgi --log-file -
